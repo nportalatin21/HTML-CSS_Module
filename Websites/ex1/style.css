@@ -5,7 +5,7 @@ html {
 }
 
 #head { 
-    margin: 10px;
+    margin: 20px;
         
     height: 20px;
     display: flex;
@@ -23,23 +23,49 @@ html {
     flex-basis: 80px;
 }
 
-#table1 {
-    margin: 10px;
+#table1{
+   
     height: 20px;
     Font-weight: bold;
-    display: flex;
-    justify-content: left;
-    align-items: center;
-    background-color:lemonchiffon;
-    margin: 100px;
+    background-color:lightcoral;
+    margin: 20px;
     height: 100px;
     flex-basis: 80px;
     border-radius: 15px;
     padding: 10px;
     border-width:thin;
     border-style: solid;
+
+    
+
     
 }
+#tb {
+
+    display: flex;
+    justify-content: center;
+        justify-content: center;
+    
+
+
+}
+
+
+th, td{
+    
+    border: 1px solid gainsboro;
+    border-style: solid ;
+    border-collapse: collapse;
+
+
+}
+
+th {
+
+    background-color: white;
+
+}
+
 
 
 #check {
@@ -51,23 +77,24 @@ html {
         justify-content: left;
         align-items: center;
         background-color:lemonchiffon;
-        margin: 10px;
+        margin: 20px;
         height: 20px;
         flex-basis: 80px;
         border-radius: 15px;
-        padding: 10px;
+        padding: 30px;
         border-width:thin;
         border-style: solid;
+        
+        
         
         }
 
 #footer {
-    margin: 10px;
-        
+
+    margin: 20px;  
     height: 20px;
     display: flex;
     background-color: lightseagreen;
-    
     display: flex;
     justify-content: left;
     align-items: center;
@@ -75,8 +102,7 @@ html {
     border-style: solid;
     border-radius: 15px;
     font-size: small;
-   
-
     padding: 10px;
     flex-basis: 80px;
+
 }
