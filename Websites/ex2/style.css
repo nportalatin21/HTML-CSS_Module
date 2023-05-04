@@ -1,0 +1,94 @@
+* { margin: 0;}
+
+
+
+
+
+header {
+
+ background-color: white;
+
+}
+
+
+
+
+
+form {
+
+background-color: lightgrey;
+
+height: 50vh;
+
+text-align: center;
+
+display: flex;
+
+flex-direction: column;
+
+justify-content: center;
+
+
+
+
+}
+
+
+
+
+body {
+
+
+
+
+ border: solid 1px;
+
+
+
+
+
+
+}
+
+
+
+
+button {
+
+ background-color:#0072e1;
+
+ border-radius: 3px;
+ border-radius: 20px;
+ border-style: hidden
+
+}
+
+
+
+
+footer {
+
+
+
+
+ background-color: rgb(113, 112, 112);
+
+height: 50vh;
+
+ text-align: center;
+
+}
+
+
+
+
+input {
+
+margin: 10px;
+
+}
+
+.last {
+
+    padding: 10px;
+}
