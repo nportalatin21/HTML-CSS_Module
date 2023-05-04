@@ -1,0 +1,88 @@
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body {
+
+margin: 0;
+
+
+}
+.Flex-Container {
+    
+
+    display: flex;
+    flex-direction: column;
+}
+
+.heading {
+background-color: black;
+}
+
+
+.box1 button {
+
+    background-color:#d83519;
+    color: white;
+    border-radius: 20px;
+    border-style: hidden;
+    
+   
+}
+
+.box1 {
+border-style:hidden ;
+
+margin: 0px; 
+padding: 100px;
+text-align: center;
+color: #d83519;
+background-color: #ffcdd2;
+height: 200px;
+
+
+}
+
+.box1 p {
+
+    font-size: smaller;
+    Font-weight: bold;
+
+}
+
+.box2 {
+
+height: 200px;
+margin: 0; 
+padding: 100px;px;
+text-align: center;
+color: #1ed760;
+background-color:#2941ab;
+
+
+}
+
+.box2 button {
+
+    color: white;
+    background-color:#1ed760;
+    border-radius: 20px;
+    border-style: hidden
+    
+}
+
+.box2 p {
+
+    font-size: smaller;
+    Font-weight: bold;
+}
+
+
+footer {
+
+    background-color: black;
+}
